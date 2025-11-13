@@ -7,7 +7,7 @@ setup(
       name='psflearning', 
       version='0.0.1',
       description='A versatile and modular toolbox that uses inverse modelling to extract accurate PSF models for most SMLM imaging modalities from bead and single-molecule data.',
-      long_descrition=long_descrition,
+      long_description=long_description,
       long_descrition_content_type="text/markdown",
 
       url='https://github.com/ries-lab/uiPSF.git',
